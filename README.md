@@ -23,6 +23,8 @@ generation). My 3D/technical-artist background lets me build the tools artists a
 
 ### Featured project — 🦊 [VulpiX](https://github.com/GuruGamesDev/VulpiX-public)
 
+<a href="https://github.com/GuruGamesDev/VulpiX-public"><img src="https://raw.githubusercontent.com/GuruGamesDev/VulpiX-public/main/docs/banner.png" alt="VulpiX" width="520"></a>
+
 A modular Unity framework (40+ independent UPM packages, open-core) for clean, optimized, leak-free mobile
 games. Public hub with roadmap, issues, discussions and free open-source modules.
 
